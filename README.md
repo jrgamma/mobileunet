@@ -1,4 +1,4 @@
-# MobilNetV3-UNet Autoencoder
+# MobileNetV3-UNet Autoencoder
 A simple Pytorch implementation of the [UNet architecture](https://arxiv.org/abs/1505.04597) based on the lightweight [MobileNetV3](https://arxiv.org/abs/1905.02244) encoder, with the decoder modules mirroring the ones of the encoder.
 
 ### Architecture Variants
