@@ -20,3 +20,13 @@ from mobileunet import mobileunet
 model_small = mobileunet.mobileunet_small()
 model_large = mobileunet.mobileunet_large()
 ```
+
+
+## Applications
+
+### Football Heatmap Regression
+This model architecture is used to train heatmap regression on football matches to track the ball and the players.  The model was trained on the [SoccerNet tracking dataset](https://www.soccer-net.org/data#h.qhlkhzlxi2ya) (train set only).
+- training script for this task will be available soon
+
+To run the notebook `notebooks/football_heatmap.ipynb` to visualize the trained model outputs, additional libraries, besides the standard libraries, such as `torchcodec` are required.
+
