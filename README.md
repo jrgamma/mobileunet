@@ -30,3 +30,6 @@ This model architecture is used to train heatmap regression on football matches 
 
 To run the notebook `notebooks/football_heatmap.ipynb` to visualize the trained model outputs, additional libraries, besides the standard libraries, such as `torchcodec` are required.
 
+Sample heatmap on a video clip:
+
+https://github.com/user-attachments/assets/75ff4871-cb87-455b-b8ee-3cdc46d30d11
